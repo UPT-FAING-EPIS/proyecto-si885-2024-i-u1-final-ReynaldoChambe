@@ -10,26 +10,41 @@
 
 **Escuela Profesional de Ingeniería de Sistemas**
 
-**Proyecto *{Nombre de Proyecto}***
+**Proyecto *Policía Nacional del Perú: Área de
+Inspectoría Tacna-Arequipa***
 
-Curso: *{Nombre de Asignatura}*
+Curso: *Inteligencia de Negocios*
 
-Docente: *{Nombre de Docente}*
+Docente: *Ing. Patrick Cuadros Quiroga*
 
 Integrantes:
 
-***{Apellidos y nombres del estudiante (código universitario)}***
+***Nina Vargas, Luigui Augusto 2019065166***
+
+
+***Chambe Torres, Edgard Reynaldo 2019064917***
+
+
+***Chata Choque, Brant Antony 2020067577***
+
+
+***Condori Vargas, Tomas Yoel 2018000487***
+
+
+***Casillas Tell, Ivan 2017057888***
+
 
 **Tacna – Perú**
 
-***{Año}***
+***2024***
 
 **  
 **
 </center>
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
-Sistema *{Nombre del Sistema}*
+Sistema *Policía Nacional del Perú: Área de
+Inspectoría Tacna-Arequipa*
 
 Informe de Factibilidad
 
@@ -38,7 +53,7 @@ Versión *{1.0}*
 |CONTROL DE VERSIONES||||||
 | :-: | :- | :- | :- | :- | :- |
 |Versión|Hecha por|Revisada por|Aprobada por|Fecha|Motivo|
-|1\.0|MPV|ELV|ARV|10/10/2020|Versión Original|
+|1\.0|LNV,ECT,TCV,BCC,ICT|Ing. Patrick Cuadros |Ing. Patrick Cuadros |27/04/2024|Versión Original|
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
@@ -75,7 +90,9 @@ Versión *{1.0}*
 
 1. <span id="_Toc52661346" class="anchor"></span>**Descripción del Proyecto**
 
-    1.1. Nombre del proyecto
+    1.1. Nombre del proyecto:
+   
+    Policía Nacional del Perú: Análisis de Datos en el Área de Inspectoría Tacna-Arequipa con PowerBI
 
     1.2. Duración del proyecto
 
