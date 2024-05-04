@@ -29,3 +29,8 @@ SEGUNDO OBJETIVO: Coordinar evaluaciones a través de informes de auditoría ela
 TERCER OBJETIVO: Garantizar el cumplimiento oportuno de las denuncias presentadas, asegurando que se diligencien dentro del plazo establecido y se siga el debido procedimiento, con el fin de fortalecer la transparencia y eficiencia del sistema de justicia.
 
 CUARTO OBJETIVO: Supervisar y verificar los servicios policiales en la region y asegurar el cumplimiento de los estándares de calidad, ética y profesionalismo, contribuyendo así a fortalecer la confianza y seguridad ciudadana en la labor policial.
+
+
+Enlace de Publicacion :
+
+https://app.powerbi.com/links/e5F0zBbwf_?ctid=b6b466ee-468d-4011-b9fc-fbdcf82ac90a&pbi_source=linkShare&bookmarkGuid=a7d42f6e-53ce-4f49-a757-e39e1c540892
